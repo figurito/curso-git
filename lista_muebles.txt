@@ -2,3 +2,4 @@ sillas
 mesas
 sofas
 armario
+nocheros
