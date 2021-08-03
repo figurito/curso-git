@@ -1,3 +1,5 @@
 sillas
 mesas
 sofas
+closets
+armarios
